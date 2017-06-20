@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034924781991",
+    "project_id": "juslearn-171323"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034924781991:android:bbb208fd566513de",
+        "android_client_info": {
+          "package_name": "com.example.harihercules.juslearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034924781991-hg8t1fhbst4218063jsm5od66n766qlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harihercules.juslearn",
+            "certificate_hash": "b8f080739e378b1c40639da577dc2e352be3ed27"
+          }
+        },
+        {
+          "client_id": "1034924781991-77h1so7338hoo1kp56ujl8mrul7cng8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2EifSZt59SxstgAxeRKxkjHqkeGzygY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
